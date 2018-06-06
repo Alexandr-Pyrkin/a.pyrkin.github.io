@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Go on Alex</title>
+    <link>https://a-pyrkin.github.io/tags/go/</link>
+    <description>Recent content in Go on Alex</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 04 Jun 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://a-pyrkin.github.io/tags/go/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Create a blog in 5 minutes using Hugo, GitHub Pages and Travis CI</title>
+      <link>https://a-pyrkin.github.io/posts/create-a-blog-in-5-minutes-using-hugo-gihub-pages-and-travis-ci/</link>
+      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://a-pyrkin.github.io/posts/create-a-blog-in-5-minutes-using-hugo-gihub-pages-and-travis-ci/</guid>
+      <description>Blog creation Install Hugo Official documentation outlines this step for many operating systems very well.
+Create a site Open command line and run
+hugo new site blog Initialize a git repository and create a first commit.
+git init git commit -m &amp;#34;create a site&amp;#34; Add a theme Hugo has a lots of themes. For example, I use Minimal
+git submodule add https://github.com/luizdepra/hugo-coder.git themes/minimal After installation, take a look at the exampleSite folder inside themes/minimal.</description>
+    </item>
+    
+  </channel>
+</rss>
